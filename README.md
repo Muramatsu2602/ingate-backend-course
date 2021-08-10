@@ -1,4 +1,4 @@
-# Node-based REST API Backend Bootcamp
+# Node-based REST API Backend Course
 3rd Edition Backend bootcamp offered by [Ingate Educa](https://ingate.com.br/).
 ## Syllabus
 ### 1. Docker
