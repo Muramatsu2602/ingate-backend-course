@@ -4,6 +4,8 @@ WORKDIR /usr/scr/app
 
 RUN apt-get update && apt-get -y upgrade
 
+RUN npm i
+
 COPY . .
 
 # 1. Create image:  docker build -t back-3 .
